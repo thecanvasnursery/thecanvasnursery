@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Oct 2025 13:47:36 at https://thecanvasnursery.com/) +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr3C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thecanvasnursery.com/) -O1 "C:\My Web Sites\thecanvasnursery2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:48:46	Error: 	"Unauthorized" (401) at link https://thecanvasnursery.com/wp-json/wp/v2/pages/8 (from https://thecanvasnursery.com/)
+13:48:46	Error: 	"Forbidden" (403) at link https://thecanvasnursery.com/xmlrpc.php?rsd (from https://thecanvasnursery.com/)
+13:48:58	Error: 	"Unauthorized" (401) at link https://thecanvasnursery.com/wp-json/wp/v2/pages/83 (from https://thecanvasnursery.com/contact/)
+13:48:58	Warning: 	Moved Permanently for https://thecanvasnursery.com/?p=83
+13:48:58	Warning: 	File has moved from https://thecanvasnursery.com/?p=83 to https://thecanvasnursery.com/contact/
+13:48:58	Error: 	"Unauthorized" (401) at link https://thecanvasnursery.com/wp-json/wp/v2/pages/105 (from https://thecanvasnursery.com/products/)
+13:48:58	Warning: 	Moved Permanently for https://thecanvasnursery.com/?p=105
+13:48:58	Warning: 	File has moved from https://thecanvasnursery.com/?p=105 to https://thecanvasnursery.com/products/
+13:48:58	Error: 	"Unauthorized" (401) at link https://thecanvasnursery.com/wp-json/wp/v2/pages/84 (from https://thecanvasnursery.com/register/)
+13:48:58	Warning: 	Moved Permanently for https://thecanvasnursery.com/?p=84
+13:48:58	Warning: 	File has moved from https://thecanvasnursery.com/?p=84 to https://thecanvasnursery.com/register/
+13:48:58	Error: 	"Unauthorized" (401) at link https://thecanvasnursery.com/wp-json/wp/v2/pages/99 (from https://thecanvasnursery.com/accessibility/)
+13:48:58	Warning: 	Moved Permanently for https://thecanvasnursery.com/?p=99
+13:48:58	Warning: 	File has moved from https://thecanvasnursery.com/?p=99 to https://thecanvasnursery.com/accessibility/
+13:48:58	Error: 	"Unauthorized" (401) at link https://thecanvasnursery.com/wp-json/wp/v2/pages/100 (from https://thecanvasnursery.com/privacy-policy/)
+13:48:58	Warning: 	Moved Permanently for https://thecanvasnursery.com/?p=100
+13:48:58	Warning: 	File has moved from https://thecanvasnursery.com/?p=100 to https://thecanvasnursery.com/privacy-policy/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 22 seconds : 164 links scanned, 151 files written (14316906 bytes overall) [13399728 bytes received at 163411 bytes/sec], 1392531 bytes transferred using HTTP compression in 50 files, ratio 21%, 21.0 requests per connection
+(7 errors, 10 warnings, 0 messages)
